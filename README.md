@@ -31,7 +31,7 @@ YT_API_KEY = API_KEY_YOUTUBE_KAMU
 ## 🧪 Test API
 Buka:
 ```
-/api/live?channelId=UC-LT-pgYo8e_DSfGW-RpdLQ
+API ID YTMU
 ```
 
 Jika offline:
